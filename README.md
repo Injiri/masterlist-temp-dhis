@@ -1,5 +1,5 @@
 # Master List temp App 
-Master facility list for Org units listing and administration  in dhis2 supported enviroment
+Master list for Org units listing and administration  in dhis2 supported enviroment
 
 ## Requiremnts
 You need yarn or npm environment configured on your local to test this code
